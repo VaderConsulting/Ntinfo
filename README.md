@@ -1,6 +1,6 @@
 # Ntinfo
 
-VB6 working copy of `Ntinfo` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: NTInfo. Output: `NTInfo.exe`. `VersionCompanyName`: Freelance.
+Freelance VB6 NTInfo utility (`NTInfo.exe`) that on load reports Windows version (`GetVersionEx`), CPU class (`GetSystemInfo`), and memory status (`GlobalMemoryStatus`) in a single Info label. Open `Ntinfo.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
